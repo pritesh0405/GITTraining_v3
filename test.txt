@@ -1,4 +1,0 @@
-This is test file 
-This is input from local.
-This is 2nd line from local.
-
