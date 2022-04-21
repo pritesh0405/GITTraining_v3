@@ -1,2 +1,6 @@
 This is Sample Test File 1
+<<<<<<< Updated upstream
 This is the change in file
+=======
+This is Stash Lecture, Change in File 1
+>>>>>>> Stashed changes
